@@ -9,3 +9,5 @@ How to test/run Web API Service w/Fiddler: Rebuild entire solution (MazeSolver).
 How to test Web API Service w/Unit Test: Open Controllers/UnitTest1.cs Right click on PostTest() method name and select "Debug Tests"
 
 How to test Web API Service w/Client: Rebuild entire solution (MazeSolver). Start debugging Web API. Open MazeSolverClient solution with new instance of Visual Studio Debug MazeSolverClient.
+
+A* path finding algorithm and code snippets from http://gigi.nullneuron.net/gigilabs/a-pathfinding-example-in-c/.
