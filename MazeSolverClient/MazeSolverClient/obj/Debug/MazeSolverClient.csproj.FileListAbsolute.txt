@@ -1,0 +1,14 @@
+c:\users\kdavis\documents\visual studio 2017\Projects\MazeSolverClient\MazeSolverClient\bin\Debug\MazeSolverClient.exe.config
+c:\users\kdavis\documents\visual studio 2017\Projects\MazeSolverClient\MazeSolverClient\bin\Debug\MazeSolverClient.exe
+c:\users\kdavis\documents\visual studio 2017\Projects\MazeSolverClient\MazeSolverClient\bin\Debug\MazeSolverClient.pdb
+c:\users\kdavis\documents\visual studio 2017\Projects\MazeSolverClient\MazeSolverClient\bin\Debug\Newtonsoft.Json.dll
+c:\users\kdavis\documents\visual studio 2017\Projects\MazeSolverClient\MazeSolverClient\bin\Debug\System.Net.Http.Formatting.dll
+c:\users\kdavis\documents\visual studio 2017\Projects\MazeSolverClient\MazeSolverClient\bin\Debug\Newtonsoft.Json.xml
+c:\users\kdavis\documents\visual studio 2017\Projects\MazeSolverClient\MazeSolverClient\bin\Debug\System.Net.Http.Formatting.xml
+c:\users\kdavis\documents\visual studio 2017\Projects\MazeSolverClient\MazeSolverClient\obj\Debug\MazeSolverClient.csproj.CoreCompileInputs.cache
+c:\users\kdavis\documents\visual studio 2017\Projects\MazeSolverClient\MazeSolverClient\obj\Debug\MazeSolverClient.exe
+c:\users\kdavis\documents\visual studio 2017\Projects\MazeSolverClient\MazeSolverClient\obj\Debug\MazeSolverClient.pdb
+c:\users\kdavis\documents\visual studio 2017\Projects\MazeSolverClient\MazeSolverClient\bin\Debug\TestMaps\maze1.txt
+c:\users\kdavis\documents\visual studio 2017\Projects\MazeSolverClient\MazeSolverClient\bin\Debug\TestMaps\maze2.txt
+c:\users\kdavis\documents\visual studio 2017\Projects\MazeSolverClient\MazeSolverClient\bin\Debug\TestMaps\maze3.txt
+c:\users\kdavis\documents\visual studio 2017\Projects\MazeSolverClient\MazeSolverClient\bin\Debug\TestMaps\maze4.txt
